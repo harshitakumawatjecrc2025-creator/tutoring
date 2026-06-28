@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutoring</string>
+    <string name="welcome">Welcome to Tutoring App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="profile">Profile</string>
+    <string name="browse_tutors">Browse Tutors</string>
+    <string name="messages">Messages</string>
+    <string name="book_session">Book Session</string>
+</resources>
